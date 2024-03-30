@@ -91,5 +91,6 @@ Arduino uses
 and code from [Processing](https://www.processing.org)
 and [Wiring](http://wiring.org.co).
 
-Icon and about image designed by [ToDo](https://www.todo.to.it/)
 
+
+This is my own change.
